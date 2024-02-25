@@ -35,7 +35,15 @@ I started the whole process, with a very basic outline of what I wanted each fil
 - WHEN I open the `logo.svg` file in a browser
 - THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
-## Screenshot of VSCode terminal and sample / VIDEO of presentation
+## Screenshot of VSCode terminal and sample / VIDEO of presentation / Deployed Site URL
+
+Deployed Site:
+
+https://cristinedior.github.io/cjones-logo-maker/
+
+GitHub Repo Site:
+
+https://github.com/cristinedior/cjones-logo-maker
 
 Video Example:
 
