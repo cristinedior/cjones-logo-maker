@@ -1,4 +1,4 @@
-// lib/shapes.js
+
 class Shape {
     constructor(color) {
       this.color = color;
